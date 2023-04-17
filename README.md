@@ -3,7 +3,7 @@
 Site where the user can place item on sale for the buyer to buy
 
 ## Live
-[Coming soon](http://google.com)
+[Live Link](https://e-commerce-eight-indol.vercel.app/)
 ## Available Scripts
 
 In the project directory, you can run:
